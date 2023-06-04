@@ -1,0 +1,13 @@
+li a {
+  color: green;
+}
+body {
+  color: black;
+  background-color: white;
+  background-image: url("images/Kimetsu\ no\ Yaiba\ 1920\ x\ 1080.png");
+  padding: 4px;
+}
+
+p {
+  color: rgb(255, 0, 0);
+}
